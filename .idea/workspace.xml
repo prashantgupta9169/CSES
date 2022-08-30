@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8db969-8a58-472f-b88d-87ff92437b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/increasingArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missingNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repetition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twoKnights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twoSets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiredAlgo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="cd8db969-8a58-472f-b88d-87ff92437b97" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cd8db969-8a58-472f-b88d-87ff92437b97" name="Default Changelist" comment="" />
